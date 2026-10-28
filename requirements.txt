@@ -12,4 +12,5 @@ notebook
 langchain-tavily
 wikipedia
 trustcall
+aiohttp
 langgraph-cli[inmem]

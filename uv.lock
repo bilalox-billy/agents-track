@@ -18,6 +18,7 @@ name = "agent-track"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "aiohttp" },
     { name = "gradio" },
     { name = "ipykernel" },
     { name = "langchain-community" },
@@ -43,6 +44,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
+    { name = "aiohttp", specifier = ">=3.14.5" },
     { name = "gradio", specifier = ">=6.30.0" },
     { name = "ipykernel", specifier = ">=7.4.0" },
     { name = "langchain-community", specifier = ">=0.4.2" },
