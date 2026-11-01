@@ -14,3 +14,12 @@ wikipedia
 trustcall
 aiohttp
 langgraph-cli[inmem]
+agent-framework-core
+agent-framework-openai
+agno[mcp]
+deepagents
+fastapi
+google-adk[a2a,mcp]
+gradio
+strands-agents[openai]
+openai-agents
