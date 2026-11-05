@@ -34,6 +34,7 @@ dependencies = [
     "pywin32>=312",
     "requests>=2.34.2",
     "strands-agents[openai]>=1.63.0",
+    "transformers>=5.22.1",
     "trustcall>=0.0.39",
     "wikipedia>=1.4.0",
 ]
